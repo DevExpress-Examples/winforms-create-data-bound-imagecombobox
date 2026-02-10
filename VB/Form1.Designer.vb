@@ -28,7 +28,7 @@ Namespace WindowsApplication1
             MyBase.Dispose(disposing)
         End Sub
 
-'#Region "Windows Form Designer generated code"
+#Region "Windows Form Designer generated code"
         ''' <summary>
         ''' Required method for Designer support - do not modify
         ''' the contents of this method with the code editor.
@@ -127,7 +127,7 @@ Namespace WindowsApplication1
             Me.ResumeLayout(False)
         End Sub
 
-'#End Region
+#End Region
         Private imageList1 As System.Windows.Forms.ImageList
 
         Private gridLookUpEdit1 As DevExpress.XtraEditors.GridLookUpEdit
